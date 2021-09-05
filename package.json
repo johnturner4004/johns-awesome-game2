@@ -1,0 +1,16 @@
+{
+  "name": "johns-awesome-game2",
+  "version": "0.1.0",
+  "description": "Second attempt at making a Zelda like game to learn how to use Phaser3\"",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Turner",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "nodemon": "^2.0.12"
+  }
+}
